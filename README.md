@@ -1,7 +1,7 @@
 # Perception_and_Imagination_EEG_Decoding_Model
 # Project Updates
 
-The code is continuously being updated. Stay tuned for further improvements!
+The code is continuously being updated. Stay tuned for further improvements.
 
 ## Datasets
 
