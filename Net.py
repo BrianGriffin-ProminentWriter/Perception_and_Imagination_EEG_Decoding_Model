@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from KAN import KAN
+from Model import EEGNet_per_DBB,EEGNet_img_DBB,KAN
 
 
 class MMPINet(nn.Module):
