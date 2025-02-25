@@ -5,7 +5,7 @@ The code is continuously being updated. Stay tuned for further improvements.
 
 ## Datasets
 
-- **Dataset A**: [XXXXX.com](XXXXX.com)  
+- **Dataset A**: [https://openneuro.org/datasets/ds004306/snapshot](https://openneuro.org/datasets/ds004306/snapshot) 
 - **Dataset B**: [xxxx.com](xxxx.com)  
 
 ## Related Models
