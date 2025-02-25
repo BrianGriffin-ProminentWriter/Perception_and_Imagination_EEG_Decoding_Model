@@ -10,9 +10,9 @@ The code is continuously being updated. Stay tuned for further improvements.
 
 ## Related Models
 
-- **EEGNet**:  
-- **KAN**:  
-- **DBB**:  
+- **EEGNet**:  [XXXXX.com](XXXXX.com)  
+- **KAN**:  [xxxx.com](xxxx.com)  
+- **DBB**:  [xxxx.com](xxxx.com)  
 
 More details and documentation will be added soon. Stay tuned!
 
